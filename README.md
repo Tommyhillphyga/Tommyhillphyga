@@ -6,8 +6,6 @@ i'm a machine learning Engineer who is passionate about computer vision and Auto
 <strong><h3>Tomiwa Samuel's GitHub Stats :</h3></strong>
 
 ![](https://github-readme-stats.vercel.app/api?username=Tommyhillphyga&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tommyhillphyga&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommyhillphyga&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <strong><h3>My Tech Stack</h3></strong>
 
